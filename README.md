@@ -14,3 +14,5 @@
 
 File -> Import Settings, select settings.zip and restart IntelliJ.
 
+![](https://github.com/cainzhong/intellij-settings/blob/master/static/images/import-settings.png)
+
